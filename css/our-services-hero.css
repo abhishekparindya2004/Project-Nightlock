@@ -1,0 +1,116 @@
+.elementor-element-3cbf3fb .elementor-shortcode {
+	position: relative;
+}
+
+#SR7_15_1 {
+	visibility: hidden !important;
+}
+
+.our-foray-hero {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	width: 100vw;
+	height: 100%;
+	z-index: 2;
+	color: #fff;
+	transform: translateX(-50%);
+	background:
+		linear-gradient(rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.38)),
+		url("../images/200_1-1-copyright.jpg") center / cover no-repeat;
+	pointer-events: none;
+}
+
+.our-foray-hero__eyebrow {
+	position: absolute;
+	top: 22%;
+	left: 10%;
+	margin: 0;
+	font-family: sofia-pro, sans-serif;
+	font-size: clamp(0.75rem, 1vw, 1.1rem);
+	font-weight: 700;
+	letter-spacing: 0.34em;
+	line-height: 1.5;
+	text-transform: uppercase;
+}
+
+.our-foray-hero__title {
+	position: absolute;
+	top: 28%;
+	left: 10%;
+	display: grid;
+	grid-template-columns: max-content clamp(4.5rem, 6.5vw, 10rem) max-content;
+	grid-template-rows: auto auto;
+	align-items: center;
+	column-gap: clamp(1rem, 4.5vw, 5.5rem);
+	row-gap: clamp(0.4rem, 0.6vw, 1rem);
+	margin: 0;
+	font-family: sofia-pro, sans-serif;
+	font-size: clamp(4.2rem, 7.5vw, 9.5rem);
+	font-weight: 600;
+	letter-spacing: 0;
+	line-height: 1.05;
+	text-transform: uppercase;
+}
+
+.our-foray-hero__our {
+	grid-column: 1;
+	grid-row: 1;
+}
+
+.our-foray-hero__astronaut {
+	grid-column: 2;
+	grid-row: 1;
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.our-foray-hero__foray {
+	grid-column: 3;
+	grid-row: 1;
+}
+
+.our-foray-hero__space {
+	grid-column: 1 / -1;
+	grid-row: 2;
+	white-space: nowrap;
+}
+
+.our-foray-hero__description {
+	position: absolute;
+	top: 73%;
+	right: 6%;
+	width: 20%;
+	max-width: 27rem;
+	margin: 0;
+	color: #b3b3b3;
+	font-size: clamp(1rem, 1.1vw, 1.2rem);
+	line-height: 1.5;
+}
+
+@media (max-width: 767px) {
+	.our-foray-hero__eyebrow {
+		top: 16%;
+		left: 8%;
+		font-size: 0.75rem;
+	}
+
+	.our-foray-hero__title {
+		top: 29%;
+		left: 8%;
+		grid-template-columns: max-content clamp(2.5rem, 11vw, 5rem) max-content;
+		column-gap: clamp(0.25rem, 1vw, 0.75rem);
+		row-gap: 0.35rem;
+		font-size: clamp(2.6rem, 9vw, 4.5rem);
+	}
+
+	.our-foray-hero__description {
+		top: 69%;
+		right: 8%;
+		width: 84%;
+		max-width: none;
+		font-size: 1rem;
+		line-height: 1.7;
+	}
+}

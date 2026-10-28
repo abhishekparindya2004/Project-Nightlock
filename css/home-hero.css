@@ -1,0 +1,114 @@
+.nightlock-home-hero {
+	position: relative;
+	width: 100vw;
+	height: min(100svh, 900px);
+	min-height: 560px;
+	margin-left: calc(50% - 50vw);
+	overflow: hidden;
+	color: #fff;
+	background:
+		linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.45)),
+		url("../images/200_1-1-copyright.jpg") center / cover no-repeat;
+}
+
+#SR7_15_1 {
+	display: none !important;
+}
+
+.nightlock-home-hero__eyebrow {
+	position: absolute;
+	top: 52%;
+	left: 10%;
+	margin: 0 0 0.75rem;
+	font-family: sofia-pro, sans-serif;
+	font-size: clamp(0.7rem, 0.9vw, 1rem);
+	font-weight: 700;
+	letter-spacing: 0.34em;
+	line-height: 1.5;
+}
+
+.nightlock-home-hero__title {
+	position: absolute;
+	top: 56%;
+	left: 10%;
+	display: grid;
+	grid-template-columns: max-content clamp(4rem, 8vw, 9rem) max-content;
+	grid-template-rows: auto auto;
+	align-items: center;
+	column-gap: clamp(1rem, 3vw, 3.5rem);
+	row-gap: clamp(0.25rem, 0.5vw, 0.6rem);
+	margin: 0;
+	font-family: sofia-pro, sans-serif;
+	font-size: clamp(3.25rem, 7vw, 8rem);
+	font-weight: 600;
+	letter-spacing: 0;
+	line-height: 0.95;
+	text-transform: uppercase;
+}
+
+.nightlock-home-hero__our {
+	grid-column: 1;
+	grid-row: 1;
+}
+
+.nightlock-home-hero__astronaut {
+	grid-column: 2;
+	grid-row: 1;
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.nightlock-home-hero__smart {
+	grid-column: 3;
+	grid-row: 1;
+}
+
+.nightlock-home-hero__space {
+	grid-column: 1 / -1;
+	grid-row: 2;
+	white-space: nowrap;
+}
+
+.nightlock-home-hero__description {
+	position: absolute;
+	right: 6%;
+	bottom: 9%;
+	width: 24%;
+	max-width: 27rem;
+	margin: 0;
+	color: #d0d0d0;
+	font-size: clamp(0.9rem, 1vw, 1.1rem);
+	line-height: 1.6;
+}
+
+@media (max-width: 767px) {
+	.nightlock-home-hero {
+		height: 85svh;
+		min-height: 560px;
+		background-position: 58% center;
+	}
+
+	.nightlock-home-hero__eyebrow {
+		top: 34%;
+		left: 7%;
+		font-size: 0.7rem;
+	}
+
+	.nightlock-home-hero__title {
+		top: 39%;
+		left: 7%;
+		grid-template-columns: max-content clamp(2.5rem, 11vw, 4rem) max-content;
+		column-gap: clamp(0.35rem, 2vw, 0.8rem);
+		row-gap: 0.4rem;
+		font-size: clamp(1.6rem, 8.4vw, 3.8rem);
+	}
+
+	.nightlock-home-hero__description {
+		right: 7%;
+		bottom: 7%;
+		width: 86%;
+		max-width: none;
+		font-size: 0.95rem;
+	}
+}
