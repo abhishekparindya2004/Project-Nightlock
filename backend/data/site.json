@@ -1,0 +1,1464 @@
+{
+  "settings": {
+    "newsletterTitle": "Stay updated with cosmic discoveries!",
+    "newsletterDescription": "Get updates on events, articles and mission data.",
+    "subscribeLabel": "Subscribe",
+    "footerCallout": "Ready to explore the universe? Let’s talk!",
+    "siteName": "Project NightLock"
+  },
+  "articles": [
+    {
+      "id": "mapping-the-entire-sky",
+      "title": "Mapping the Entire Sky",
+      "category": "Mission science",
+      "summary": "One of SPHEREx's most important features is its ability to survey the entire sky rather than concentrating on just a small region. This allows scientists to build a broad picture of the universe and investigate objects and structures across enormous distances.",
+      "body": "SPHEREx observes the sky in more than 100 infrared spectral bands. A spectral band is a particular range of wavelengths of light. Different wavelengths reveal different information about astronomical objects, such as their temperatures, chemical compositions, and distances.\n\nInfrared light is especially useful because it can reveal information that ordinary visible-light observations may miss. For example, dust surrounding newly forming stars can block visible light, while infrared observations can help scientists study the material within and around these dusty regions.\n\nAs SPHEREx scans the sky repeatedly, it collects measurements that can be combined into detailed maps. These maps help researchers identify galaxies, study the distribution of stars and cosmic dust, and investigate the chemical properties of interstellar clouds. Another major benefit is that SPHEREx can compare millions of objects using a consistent observing method. This is valuable for identifying large-scale patterns that might be difficult to recognise when studying only a small patch of space.\n\nThe resulting dataset supports many different areas of astronomy, from studying the early universe to investigating how galaxies and planetary systems develop. In simple terms, SPHEREx acts like a cosmic surveyor, creating a detailed infrared map that scientists can use to explore the universe on both enormous and relatively small astronomical scales.",
+      "image": "images/spherex in sky.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA · First all-sky infrared map",
+          "url": "https://www.nasa.gov/image-article/first-sky-map-from-nasas-spherex-observatory/"
+        }
+      ]
+    },
+    {
+      "id": "ingredients-for-life",
+      "title": "Searching for the Ingredients of Life",
+      "category": "Mission science",
+      "summary": "Scientists studying the possibility of life beyond Earth need to understand where the basic ingredients of life exist in space and how these ingredients become part of planets. Two important examples are water and organic molecules.",
+      "body": "Water is essential for life as we know it, while organic molecules contain carbon and form the basis of many biological substances.\n\nThese materials can exist in interstellar clouds, which are enormous regions of gas and dust where new stars and planetary systems may eventually form. SPHEREx uses infrared spectroscopy to investigate the chemical composition of these regions. Different molecules absorb or interact with particular wavelengths of infrared light, producing characteristic patterns that scientists can analyse. These patterns help researchers identify and estimate the abundance of substances such as water ice and certain carbon-containing molecules.\n\nWater ice is particularly important because it can collect on dust grains inside cold molecular clouds. When stars and planetary systems form from these clouds, some of this material may become incorporated into comets, asteroids, and planets. Studying where water ice exists can therefore help scientists understand how water may be delivered to developing planetary systems.\n\nSPHEREx also surveys many star-forming regions throughout the Milky Way, allowing researchers to compare their chemical compositions and environments. This can reveal how the availability of important molecules changes from one region to another. However, finding water ice or organic molecules does not mean that life exists there. Instead, SPHEREx helps scientists investigate whether the raw materials needed for life are widespread and how they become distributed during the formation of stars and planets.",
+      "image": "images/spherex in sky.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA · First all-sky infrared map",
+          "url": "https://www.nasa.gov/image-article/first-sky-map-from-nasas-spherex-observatory/"
+        }
+      ]
+    },
+    {
+      "id": "cosmic-origins",
+      "title": "Understanding the Origins of the Universe",
+      "category": "Mission science",
+      "summary": "The universe began approximately 13.8 billion years ago in an event known as the Big Bang. Scientists believe that, during its earliest moments, the universe experienced an extremely rapid expansion called cosmic inflation.",
+      "body": "This expansion may have stretched tiny variations in the early universe across enormous distances, eventually helping to create the structures we observe today, including galaxies and clusters of galaxies. SPHEREx helps scientists investigate this history by studying the positions and distribution of millions of galaxies across the sky. Galaxies are not distributed completely randomly. Instead, they form large-scale patterns influenced by gravity and the conditions that existed in the early universe.\n\nBy mapping these patterns in three dimensions, scientists can examine how matter is distributed throughout space and compare their observations with predictions made by different models of cosmic inflation. This can help researchers determine which explanations of the universe's earliest moments are most consistent with the evidence.\n\nSPHEREx uses infrared observations to estimate the distances to galaxies and study their properties. Its wide survey provides a large collection of measurements that scientists can analyse statistically. Importantly, SPHEREx does not directly observe cosmic inflation itself. Instead, it searches for clues preserved in the universe's large-scale structure. These clues help scientists understand how the universe evolved from its earliest conditions into the vast collection of galaxies we see today.",
+      "image": "images/spherex in sky.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA · First all-sky infrared map",
+          "url": "https://www.nasa.gov/image-article/first-sky-map-from-nasas-spherex-observatory/"
+        }
+      ]
+    },
+    {
+      "id": "galaxy-evolution",
+      "title": "Galaxy Evolution",
+      "category": "Mission science",
+      "summary": "Follow how galaxies assembled across cosmic time.",
+      "body": "Galaxies grow as gas forms stars, material flows in and galaxies merge. A survey that observes many galaxies using the same instrument makes it possible to compare those populations at different distances.\n\nSPHEREx uses near-infrared spectra to estimate redshifts and examine large-scale structure. Measurements of the diffuse extragalactic background light also offer a way to study the combined light of populations that are difficult to resolve individually.",
+      "image": "images/portf35-copyright-1.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "spherex-in-infrared",
+      "title": "SPHEREx Mission Looks Different in Infrared",
+      "category": "Mission science",
+      "summary": "Visible light shows only part of the sky. SPHEREx makes a different part of the universe measurable.",
+      "body": "Some objects radiate strongly in the near-infrared, and some spectral features can be measured there even when they are difficult to study in visible light. Dust can obscure visible light, so infrared observations provide complementary views of dusty regions.\n\nBy dividing light into 102 wavelength channels, SPHEREx creates maps that can be compared band by band. A colour in a rendered image may represent an infrared wavelength rather than what a human eye would see.",
+      "image": "images/spherex in sky.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "sky-explorer",
+      "title": "Sky Explorer",
+      "category": "Explore",
+      "summary": "Start with an all-sky view, then zoom into a region of interest.",
+      "body": "All-sky maps provide context for individual observations. Start by identifying the Milky Way, then compare regions near its dusty plane with those far from it.\n\nTo explore real mission observations, open the IRSA archive. Choose a target by name or sky coordinates and check the wavelength and observation coverage before comparing images.",
+      "image": "images/sky explorer.jpeg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "object-finder",
+      "title": "Object Finder",
+      "category": "Explore",
+      "summary": "Find familiar targets in the infrared archive.",
+      "body": "Search by an object’s catalogue name or right ascension and declination. A good starting point is a nearby bright nebula or galaxy, for which public references are plentiful.\n\nWhen comparing observations, check that the cutouts cover the same sky coordinates and note differences in angular resolution and wavelength.",
+      "image": "images/objectfindeer.jpeg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "spectral-explorer",
+      "title": "Spectral Explorer",
+      "category": "Explore",
+      "summary": "Look at how brightness changes across infrared wavelengths.",
+      "body": "Spectra separate light by wavelength, revealing dips and peaks that may be difficult to distinguish in a broadband image. A dip can be evidence of absorption, but reliable identification requires comparing its position and shape with other known features.\n\nUse the archive documentation to understand calibration, measurement uncertainties and how observations are grouped by wavelength.",
+      "image": "images/spectral explorer.jpeg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "discovery-mode",
+      "title": "Discovery Mode",
+      "category": "Explore",
+      "summary": "Use side-by-side observations to ask your own astronomy question.",
+      "body": "Pick a small patch of sky and compare its appearance at different wavelengths. Record the coordinates and the image settings you used so someone else can reproduce your observation.\n\nLook for known objects in a catalogue before calling a feature new. Reflections, bright stars and processing artefacts can look like real astronomical structures.",
+      "image": "images/portf34-copyright-1.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "galaxy-explorer",
+      "title": "Galaxy Explorer",
+      "category": "Explore",
+      "summary": "Compare galaxies by their infrared appearance and place in the wider sky.",
+      "body": "A galaxy’s appearance depends on its stars, dust, orientation and distance. Try comparing a nearly face-on spiral with an edge-on galaxy, keeping the displayed scale and wavelength in mind.\n\nOn larger scales, catalogues show galaxies clustered into a web of filaments, clusters and voids. SPHEREx studies that distribution using estimates of galaxy distances.",
+      "image": "images/portf35-copyright-1.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "spherex-mission",
+      "title": "SPHEREx Mission",
+      "category": "Mission science",
+      "summary": "NASA’s all-sky survey measures the cosmos in 102 infrared colours.",
+      "body": "SPHEREx launched on March 11, 2025. The mission surveys the sky repeatedly to study the distribution of galaxies, the history of their light and the icy ingredients of forming planetary systems.\n\nThe survey is built from many overlapping observations. Its maps and catalogues let researchers compare distant galaxies and examine much closer gas and dust using the same broad dataset.",
+      "image": "images/spherex mission(1).jpeg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "explore-the-observatory",
+      "title": "Explore the Observatory",
+      "category": "Observatory",
+      "summary": "NightLock brings together guided sky exploration, learning resources and SPHEREx updates.",
+      "body": "Begin with a learning programme if you want a guide to astronomical instruments and observations. For practical skywatching, use the tour and stargazing guides to plan around Moon phase, weather and local light pollution.\n\nThe mission calendar links to public data releases and archive documentation, where you can examine the original observations.",
+      "image": "images/milky-way-copyright.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "educational-programs",
+      "title": "Educational programs",
+      "category": "Observatory",
+      "summary": "Learn how astronomers use light to understand objects they cannot visit.",
+      "body": "Compare visible and infrared images of the same target to see how wavelength changes what can be measured. Use a spectrum to distinguish a broad trend from a narrow spectral feature.\n\nFor a class activity, ask learners to choose a target, find an image from a trusted archive and explain what can and cannot be concluded from it.",
+      "image": "images/post42-copyright-890x664.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "night-sky-tours",
+      "title": "Night sky tours",
+      "category": "Observatory",
+      "summary": "Build a sky tour with recognisable objects and a simple observing plan.",
+      "body": "Begin with easy naked-eye targets, such as the Moon or a prominent constellation. A local chart or planetarium app can help identify which objects are above the horizon for your time and location.\n\nAllow time for your eyes to adapt, bring a dim red light and check local access and conditions before setting out.",
+      "image": "images/post41-copyright-890x664.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "stargazing-nights",
+      "title": "Stargazing nights",
+      "category": "Observatory",
+      "summary": "Prepare for an evening of practical observing.",
+      "body": "Choose a safe viewing site away from bright lights and check cloud cover, wind and Moon phase. Start with binoculars or a simple telescope at low magnification.\n\nKeep an observing log with the time, conditions, equipment and sketches or notes. Compare those notes when you revisit the same target.",
+      "image": "images/event5-copyright-890x664.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "spherex-building",
+      "title": "NASA’s SPHEREx moves into construction",
+      "category": "SPHEREx",
+      "summary": "NASA announced in January 2021 that SPHEREx had entered Phase C.",
+      "body": "After preliminary design review, the team advanced to detailed design and hardware and software development. One design challenge was keeping the infrared instrument cool enough to measure faint light without overwhelming its detectors.\n\nThe mission brought together several partners to develop the spacecraft and its instrument and data systems.",
+      "image": "images/nasa spherex mission.jpg",
+      "date": "2021-01-05",
+      "placement": [
+        "mission"
+      ],
+      "sources": [
+        {
+          "label": "NASA · SPHEREx enters Phase C",
+          "url": "https://www.nasa.gov/centers-and-facilities/jpl/a-new-nasa-space-telescope-spherex-is-moving-ahead/"
+        }
+      ]
+    },
+    {
+      "id": "spherex-launch",
+      "title": "SPHEREx launch to space",
+      "category": "SPHEREx",
+      "summary": "SPHEREx launched on March 11, 2025 alongside NASA’s PUNCH mission.",
+      "body": "A Falcon 9 launched SPHEREx and PUNCH from Vandenberg Space Force Base. After commissioning, SPHEREx began mapping the sky, while PUNCH was designed to study the outer solar atmosphere and solar wind.\n\nSPHEREx’s near-infrared observations serve three broad goals: studying the early universe, tracing galaxy light and mapping ices in the Milky Way.",
+      "image": "images/spherex-launch.jpeg",
+      "date": "2025-03-11",
+      "placement": [
+        "mission"
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "spherex-first-year-data",
+      "title": "NASA’s SPHEREx releases its first-year infrared sky data",
+      "category": "SPHEREx",
+      "summary": "The archive lists the mission’s first major public data release in November 2026.",
+      "body": "The release builds on the stream of publicly released spectral images. It gives researchers a documented set of products for comparing infrared measurements and investigating sources across the survey.\n\nUse IRSA’s product documentation to check coverage, calibration and available tools before using the data in an analysis.",
+      "image": "images/img 01 of spherex.png",
+      "date": "2026-11-12",
+      "placement": [
+        "mission"
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA · First all-sky infrared map",
+          "url": "https://www.nasa.gov/image-article/first-sky-map-from-nasas-spherex-observatory/"
+        }
+      ]
+    },
+    {
+      "id": "spherex-second-year",
+      "title": "SPHEREx enters its second year in space",
+      "category": "SPHEREx",
+      "summary": "March 11, 2026 marked one year since launch and the start of the mission’s second year in space.",
+      "body": "SPHEREx released its first all-sky infrared map in December 2025. Repeated passes during the primary mission improve sensitivity when combined and provide an opportunity to check the consistency of observations.\n\nThis anniversary refers to one year completed in space, not the completion of two years.",
+      "image": "images/spherex 2 years aniversary.png",
+      "date": "2026-03-11",
+      "placement": [
+        "mission"
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA · First all-sky infrared map",
+          "url": "https://www.nasa.gov/image-article/first-sky-map-from-nasas-spherex-observatory/"
+        }
+      ]
+    },
+    {
+      "id": "project-nightlock",
+      "title": "Read the Project NightLock",
+      "category": "NightLock",
+      "summary": "Meet the team behind this astronomy and SPHEREx learning project.",
+      "body": "Project NightLock connects approachable astronomy explanations with mission news, sky imagery and public data. The site offers guided starting points for readers who want to learn how infrared observations reveal information that visible images alone cannot show.\n\nNightLock is an independent educational project. Follow the NASA and IRSA links for official mission announcements and science data.",
+      "image": "images/image24-copyright-qh4vrvpwev4elp6nyfbatloc2loi4mkvbn3i248eto.jpg",
+      "date": "",
+      "placement": [],
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "the-biggest-solar-system-secrets-beyond-the-textbooks",
+      "title": "The biggest Solar system secrets: beyond the textbooks",
+      "category": "Science",
+      "summary": "Explore how the Solar System formed and what its planets, moons and smaller bodies reveal.",
+      "body": "The Solar System formed about 4.6 billion years ago from a cloud of gas and dust. Gravity drew much of that material toward the young Sun, while the remaining matter gradually formed planets, moons, asteroids and comets. Each of these objects preserves clues about the earliest stages of our cosmic neighborhood.\n\nThe four inner planets—Mercury, Venus, Earth and Mars—have solid, rocky surfaces, but their environments are dramatically different. Comparing them helps scientists understand how a planet’s size, atmosphere and distance from the Sun influence its history.\n\nFarther out are the giant planets. Jupiter and Saturn are rich in hydrogen and helium, while Uranus and Neptune contain larger proportions of heavier substances. Their rings, storms and complex systems of moons make them fascinating targets for observation.\n\nA planet is only part of the story. Moons can have underground oceans, active geology or icy surfaces that respond to their parent planet’s gravitational pull. Studying these worlds helps researchers ask where water and other essential ingredients can exist.\n\nVenus and Mars also show how planetary atmospheres can change over time. Venus has an exceptionally dense atmosphere, while Mars has a much thinner one. Their contrasting conditions help place Earth’s environment in a wider scientific context.\n\nSmall bodies carry information about the Solar System’s past. Asteroids are rocky remnants from early planet formation, while comets contain ice and dust that can become visible as they approach the Sun.\n\nEach world in the Solar System offers a different clue about how planets form and evolve.\n\nBeyond Neptune lies a broad region of icy objects known as the Kuiper Belt. Pluto is one of its best-known members and is classified as a dwarf planet. This distant region demonstrates that the Solar System extends far beyond the eight major planets.\n\nNew observations continue to challenge familiar textbook images. Robotic probes explore planets and moons up close, while ground-based and space telescopes monitor atmospheres, surfaces and the changing positions of small bodies.\n\nAn observation becomes more meaningful when researchers compare data from different wavelengths. Visible and infrared views, for example, can highlight different physical processes and make otherwise difficult-to-see structures easier to study.\n\nFor curious sky watchers, the best starting point is to ask questions, compare reliable evidence and revisit a familiar world with fresh information. The Solar System is not a finished chapter: it is an active area of scientific discovery.",
+      "image": "",
+      "date": "2023-09-16",
+      "placement": [
+        "recent"
+      ],
+      "sources": []
+    },
+    {
+      "id": "unraveling-the-fabric-of-reality-with-the-help-of-quantum-physics",
+      "title": "Unraveling the fabric of reality with the help of quantum physics",
+      "category": "Science",
+      "summary": "Quantum physics describes the behavior of matter and energy at very small scales, informing many of the instruments used in modern research.",
+      "body": "Light reaches a detector in discrete packets called photons. This property matters when astronomers are trying to count a small signal from a distant source.\n\nElectrons in atoms and the vibrations of molecules also occupy discrete energy states. Their transitions leave patterns in spectra that researchers can compare against laboratory measurements.",
+      "image": "",
+      "date": "2023-08-15",
+      "placement": [
+        "recent"
+      ],
+      "sources": []
+    },
+    {
+      "id": "the-mars-mission-or-humanitys-next-giant-leap",
+      "title": "The Mars mission, or humanity’s next giant leap",
+      "category": "Science",
+      "summary": "Mars exploration brings together robotic missions, planetary science and the engineering challenges of reaching another world.",
+      "body": "A crewed Mars mission would have to manage long travel times, radiation exposure, delayed communications and safe landing of heavy cargo. Robotic missions can help evaluate potential landing regions and test technologies before people travel.\n\nOn the surface, useful questions include how to store energy through dusty conditions and how to obtain water or oxygen from local resources.",
+      "image": "",
+      "date": "2023-08-15",
+      "placement": [
+        "recent"
+      ],
+      "sources": []
+    },
+    {
+      "id": "are-the-black-holes-really-a-portal-to-unknown-realms",
+      "title": "Are the black holes really a portal to unknown realms?",
+      "category": "Science",
+      "summary": "Black holes are regions where gravity is so strong that light cannot escape. Scientists study their surroundings using radiation and orbital motion.",
+      "body": "A black hole’s event horizon is a boundary from which signals cannot escape to a distant observer. Astronomers detect black holes by studying nearby stars, radiation from infalling matter and gravitational waves from mergers.\n\nWormholes appear in some theoretical models, but none has been observed. The evidence for black holes does not demonstrate that they can serve as portals.",
+      "image": "",
+      "date": "2023-08-15",
+      "placement": [
+        "recent"
+      ],
+      "sources": []
+    },
+    {
+      "id": "the-moment-of-truth-for-american-space-travelers",
+      "title": "The moment of truth for American space travelers",
+      "category": "Popular",
+      "summary": "Human spaceflight depends on spacecraft engineering, mission operations and the people who prepare for journeys beyond Earth.",
+      "body": "A crewed flight has several demanding phases, including launch, orbital operations and re-entry. Mission teams track each phase and use simulations to prepare for time-critical decisions.\n\nThe astronaut crew is only one part of that work. Flight controllers, engineers, trainers and recovery teams all support a safe return.",
+      "image": "images/post39-copyright-840x685.jpg",
+      "date": "2023-08-14",
+      "placement": [
+        "popular"
+      ],
+      "sources": []
+    },
+    {
+      "id": "the-greatest-discoveries-of-astronomers-in-the-21st-century",
+      "title": "The greatest discoveries of astronomers in the 21st century",
+      "category": "Popular",
+      "summary": "From exoplanets to new images of distant galaxies, modern astronomy uses observatories and data to broaden our view of the cosmos.",
+      "body": "Direct detections of gravitational waves introduced an entirely new way to study compact objects. Exoplanet surveys also turned isolated discoveries into a broad census of planets beyond the Solar System.\n\nThe first images of black hole shadows showed what coordinated observations from observatories around the globe could achieve.",
+      "image": "images/post26-copyright.jpg",
+      "date": "2023-08-14",
+      "placement": [
+        "popular"
+      ],
+      "sources": []
+    },
+    {
+      "id": "a-new-record-in-global-climate-change-charts",
+      "title": "A new record in global climate change charts",
+      "category": "Popular",
+      "summary": "Climate observations combine measurements from satellites, the atmosphere, land and oceans to help scientists understand long-term trends.",
+      "body": "Climate records compare observations across years using a consistent baseline. Satellites help researchers measure sea surface temperatures, ice extent and changes in the radiation Earth emits or reflects.\n\nA record value depends on the dataset and time period being compared. Trends are best interpreted alongside long-term observations and their uncertainties.",
+      "image": "images/post34-copyright.jpg",
+      "date": "2023-08-14",
+      "placement": [
+        "popular"
+      ],
+      "sources": []
+    },
+    {
+      "id": "the-wonders-of-astronomy-are-still-beyond-our-imagination",
+      "title": "The wonders of astronomy are still beyond our imagination",
+      "category": "Popular",
+      "summary": "Astronomy explores phenomena from nearby planets to distant galaxies, often revealing new questions alongside new discoveries.",
+      "body": "The light from a distant galaxy can take billions of years to arrive, giving us a view of an earlier stage of the universe. Different wavelengths highlight different processes.\n\nCombining observations across wavelengths is often more informative than relying on a single image, even when that image is visually striking.",
+      "image": "images/post36-copyright.jpg",
+      "date": "2023-08-14",
+      "placement": [
+        "popular"
+      ],
+      "sources": []
+    },
+    {
+      "id": "alien-life-the-search-continues-to-be-unabated",
+      "title": "Alien life: the search continues to be unabated",
+      "category": "Popular",
+      "summary": "The search for life beyond Earth investigates habitable environments, planetary chemistry and possible signs of biological activity.",
+      "body": "Researchers look for environments where life could exist and for signals that could distinguish biology from non-biological chemistry. Neither water nor organic molecules alone are evidence of life.\n\nA plausible finding would need independent measurements and careful tests of alternative explanations.",
+      "image": "images/post37-copyright.jpg",
+      "date": "2023-08-15",
+      "placement": [
+        "popular"
+      ],
+      "sources": []
+    },
+    {
+      "id": "guardians-of-earth-comets-asteroids-and-other-objects",
+      "title": "Guardians of Earth: comets, asteroids, and other objects",
+      "category": "Popular",
+      "summary": "Comets and asteroids help scientists understand the early Solar System, while tracking their paths supports research into near-Earth objects.",
+      "body": "Astronomers take repeated observations to refine the orbits of objects that pass near Earth. Most present no danger, and adding measurements narrows the uncertainty in predicted positions.\n\nPlanetary defence includes discovery, tracking and testing ways to change an orbit if a future object threatens Earth.",
+      "image": "images/post38-copyright.jpg",
+      "date": "2023-08-15",
+      "placement": [
+        "popular"
+      ],
+      "sources": []
+    },
+    {
+      "id": "a-giant-stream-of-stars-noticed-between-galaxies",
+      "title": "A giant stream of stars noticed between galaxies",
+      "category": "Museum",
+      "summary": "Faint streams of stars are clues to encounters between galaxies.",
+      "body": "Gravity can pull stars away from a galaxy during close encounters. The stripped stars can form a faint stream, preserving a record of how the system interacted with its neighbours.\n\nAstronomers use careful image processing and wide fields of view to distinguish these low-brightness structures from scattered light and foreground objects.",
+      "image": "images/post25-copyright.jpg",
+      "date": "2023-09-16",
+      "placement": [
+        "latest"
+      ],
+      "sources": []
+    },
+    {
+      "id": "the-mystery-behind-the-milky-way-galaxy",
+      "title": "The mystery behind the Milky Way galaxy",
+      "category": "Museum",
+      "summary": "The Milky Way is our home galaxy, containing stars, gas, dust and dark matter. Researchers map its structure through many types of observations.",
+      "body": "From Earth we see our galaxy from inside its disk. Dust obscures parts of that disk in visible light, so infrared and radio surveys provide essential additional views.\n\nStar motions, distances and chemistry help researchers reconstruct the Milky Way’s structure and the history of its interactions with smaller galaxies.",
+      "image": "images/post26-copyright.jpg",
+      "date": "2023-09-16",
+      "placement": [
+        "latest"
+      ],
+      "sources": []
+    },
+    {
+      "id": "how-did-ancient-scientists-predict-eclipses",
+      "title": "How did ancient scientists predict eclipses?",
+      "category": "Museum",
+      "summary": "Eclipses follow predictable celestial motions. Over centuries, people observed repeating patterns and developed methods to anticipate these events.",
+      "body": "Repeated observations revealed that eclipses recur in cycles. The Saros is about 18 years, 11 days and eight hours, when the alignment of the Sun, Earth and Moon is similar again.\n\nThe extra fraction of a day shifts the part of Earth facing the eclipse, so a repeating pattern did not imply the same local circumstances.",
+      "image": "images/post21-copyright.jpg",
+      "date": "2023-09-16",
+      "placement": [
+        "latest"
+      ],
+      "sources": []
+    },
+    {
+      "id": "a-look-at-a-globular-cluster-in-the-large-magellanic-cloud",
+      "title": "A look at a globular cluster in the Large Magellanic Cloud",
+      "category": "Museum",
+      "summary": "Star clusters bring together stars whose properties offer clues about how they formed and how stellar systems evolve.",
+      "body": "Globular clusters pack many stars into a compact, gravitationally bound system. Comparing the colours and brightnesses of those stars allows astronomers to estimate their ages and test models of stellar evolution.\n\nClusters in the Large Magellanic Cloud provide a valuable comparison with populations in the Milky Way.",
+      "image": "images/post24-copyright.jpg",
+      "date": "2023-09-16",
+      "placement": [
+        "latest"
+      ],
+      "sources": []
+    },
+    {
+      "id": "exoplanets-and-the-quest-for-alien-worlds",
+      "title": "Exoplanets and the quest for alien worlds",
+      "category": "Astronomy",
+      "summary": "Exoplanets are planets beyond our Solar System. Astronomers use changes in starlight and other measurements to study their orbits, sizes and possible atmospheres.",
+      "body": "Exoplanets are planets beyond our Solar System. Astronomers use changes in starlight and other measurements to study their orbits, sizes and possible atmospheres.",
+      "image": "",
+      "date": "2023-08-14",
+      "placement": [],
+      "sources": []
+    },
+    {
+      "id": "watching-the-famous-comet-passing-earth",
+      "title": "Watching the famous comet passing Earth",
+      "category": "Astronomy",
+      "summary": "Comets brighten when sunlight warms their ice. Use an ephemeris to see when one is above your horizon, and compare the predicted brightness with your viewing conditions.",
+      "body": "Choose a dark site and allow your eyes to adjust. If a comet is faint, binoculars and a chart are often more helpful than a high-magnification telescope.",
+      "image": "images/post7-copyright-840x473.jpg",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "everything-about-time-travel-and-its-theories",
+      "title": "Everything about time travel and its theories",
+      "category": "Astronomy",
+      "summary": "Relativity connects time to motion and gravity, providing a scientific framework for discussing how clocks behave in different conditions.",
+      "body": "Relativity connects time to motion and gravity, providing a scientific framework for discussing how clocks behave in different conditions.",
+      "image": "",
+      "date": "2023-08-13",
+      "placement": [],
+      "sources": []
+    },
+    {
+      "id": "stars-in-perfect-synchrony-form-a-symphony",
+      "title": "Stars in perfect synchrony form a symphony",
+      "category": "Astronomy",
+      "summary": "Stars can form groups, clusters and binary systems whose motion helps reveal their ages, masses and shared origins.",
+      "body": "Stars can form groups, clusters and binary systems whose motion helps reveal their ages, masses and shared origins.",
+      "image": "",
+      "date": "2023-08-13",
+      "placement": [],
+      "sources": []
+    },
+    {
+      "id": "all-time-favorite-spots-to-watch-the-stars",
+      "title": "All-time favorite spots to watch the stars",
+      "category": "Astronomy",
+      "summary": "Good stargazing locations combine dark skies, clear horizons, safe access and low local glare.",
+      "body": "Check access rules, cloud forecasts and Moon phase before travelling. A site with a low horizon in the right direction can be more useful than a darker site surrounded by hills or trees.",
+      "image": "images/post8-copyright-840x473.jpg",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "favorite-news-podcasts-in-2023",
+      "title": "Favorite news podcasts in 2023",
+      "category": "Astronomy",
+      "summary": "Audio coverage can make it easier to follow astronomy findings and hear from the people behind them.",
+      "body": "Look for episodes that link to the original paper, mission update or interview. Check the recording date if the episode discusses a scheduled launch or a preliminary result.",
+      "image": "",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "what-we-like-about-astronomic-science",
+      "title": "What we like about astronomic science",
+      "category": "Astronomy",
+      "summary": "Astronomy uses careful observation to ask what stars, galaxies and planets are made of and how they change.",
+      "body": "An observation log is a simple way to practice the same habits. Record what you saw, what instrument you used and anything that could affect the result, then compare it with a later observation.",
+      "image": "",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "quote-post",
+      "title": "Quote post",
+      "category": "Astronomy",
+      "summary": "Every useful observation starts with a question you can test or a detail you can record.",
+      "body": "Try sketching the Moon at the same time over several nights. Look for the moving boundary between light and dark, and compare how the shadows change as the Moon’s phase changes.",
+      "image": "",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "how-to-keep-track-of-the-space-objects",
+      "title": "How to keep track of the space objects?",
+      "category": "Astronomy",
+      "summary": "Sky charts and observing guides help identify bright planets, constellations and other objects that move against the stars.",
+      "body": "Look up an object by name and set the chart’s date and location correctly. For fast-moving satellites, use a current prediction since the exact pass time and direction depend on both the orbit and your viewing location.",
+      "image": "",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "this-weeks-moonless-sky-discoveries",
+      "title": "This week’s Moonless sky discoveries",
+      "category": "Astronomy",
+      "summary": "When the Moon is below the horizon, faint galaxies, nebulae and clusters are easier to see.",
+      "body": "Check local moonrise and moonset as well as the lunar phase. Make a short target list and start with the brightest object so you have time to recognise nearby stars before looking for fainter targets.",
+      "image": "images/post12-copyright-840x473.jpg",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "how-to-choose-your-first-big-telescope",
+      "title": "How to choose your first big telescope?",
+      "category": "Astronomy",
+      "summary": "Choose a telescope that fits what you want to observe and is practical to set up regularly.",
+      "body": "Aperture determines how much light the instrument collects. A steady mount matters as much as the tube for comfortable viewing. Try equipment at a local astronomy club before buying if you can.",
+      "image": "images/post13-copyright-840x473.jpg",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "a-new-group-of-spider-pulsars-in-omega-centauri",
+      "title": "A new group of spider pulsars in Omega Centauri",
+      "category": "Astronomy",
+      "summary": "Spider pulsars are rapidly rotating neutron stars in close binaries whose radiation can erode their companion stars.",
+      "body": "Dense clusters are good places to search for compact binaries. Radio observations can reveal regular pulses and changes in their timing as the pulsar moves around its companion.",
+      "image": "images/post14-copyright-840x473.jpg",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "upgrade-your-telescope-gear-at-our-store",
+      "title": "Upgrade your telescope gear at our store",
+      "category": "Astronomy",
+      "summary": "Pick accessories based on an observing problem you actually want to solve.",
+      "body": "A stable mount, a comfortable low-power eyepiece and a simple finder can do more for an observing session than an expensive set of high-power accessories. NightLock does not sell equipment.",
+      "image": "images/post15-copyright-840x473.jpg",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "the-international-space-station-celebrates-25-years",
+      "title": "The International Space station celebrates 25 years",
+      "category": "Astronomy",
+      "summary": "The International Space Station is a laboratory built and operated through international cooperation.",
+      "body": "Assembly started in 1998, while continuous crew occupation began in 2000. These are different milestones. From the ground, a station pass can look like a bright, steady moving point shortly after sunset or before sunrise.",
+      "image": "images/post16-copyright-840x473.jpg",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "using-drones-to-watch-the-sky-and-weather-changes",
+      "title": "Using drones to watch the sky and weather changes",
+      "category": "Astronomy",
+      "summary": "Aerial images and weather sensors can supplement ground and satellite observations.",
+      "body": "Local measurements can document changes in wind, clouds or surface conditions at finer scales. Published results should state the altitude, instrument and conditions so readers can interpret what was measured.",
+      "image": "images/post17-copyright-840x473.jpg",
+      "date": "",
+      "placement": [
+        "guides"
+      ],
+      "sources": []
+    },
+    {
+      "id": "a-new-cosmic-neighbor-discovered",
+      "title": "A New Cosmic Neighbor Discovered",
+      "category": "News",
+      "summary": "How astronomers look for faint neighbors",
+      "body": "Nearby stars and brown dwarfs can be faint in visible light. Infrared surveys help researchers locate promising objects and estimate their distances by observing how they move against the background. This is an overview of the method, not a report of a specific discovery.",
+      "image": "",
+      "date": "2026-10-08",
+      "placement": [
+        "home"
+      ],
+      "sources": []
+    },
+    {
+      "id": "comet-reveals-its-hidden-secrets",
+      "title": "Comet Reveals Its Hidden Secrets",
+      "category": "News",
+      "summary": "What infrared observations can tell us about comets",
+      "body": "As a comet warms near the Sun, it releases dust and gas. Comparing the brightness of those materials at different wavelengths can help researchers identify molecules and study how the comet changes. This is an overview, not a report about a named comet.",
+      "image": "",
+      "date": "2026-10-08",
+      "placement": [
+        "home"
+      ],
+      "sources": []
+    },
+    {
+      "id": "mysterious-galaxy-changes-caught-in-infrared",
+      "title": "Mysterious Galaxy Changes Caught in Infrared",
+      "category": "News",
+      "summary": "How invisible light reveals activity in galaxies",
+      "body": "Dust can hide regions where stars are forming or where a black hole is feeding. Infrared light helps astronomers look through some of that dust, and repeated observations can reveal changes. This overview describes the technique without attributing an unverified change to a particular galaxy.",
+      "image": "",
+      "date": "2026-10-08",
+      "placement": [
+        "home"
+      ],
+      "sources": []
+    }
+  ],
+  "events": [
+    {
+      "id": "spherex-qr3",
+      "title": "SPHEREx QR3 Data Release",
+      "date": "2026-09-08",
+      "summary": "IRSA announced the start of Quick Release 3 in September 2026.",
+      "body": "QR3 introduced revised calibrations, including an improved point-spread function. Those updates improve the reliability of brightness measurements from the released spectral images.\n\nRead the announcement for changes to the calibration products and the explanatory supplement.",
+      "image": "images/img 01 of spherex.png",
+      "location": "Infrared Science Archive",
+      "status": "Released",
+      "organizer": "NASA / IPAC-Caltech",
+      "end": "",
+      "dateDisplay": "",
+      "schedule": true,
+      "sources": [
+        {
+          "label": "IRSA · Quick Release 3 announcement",
+          "url": "https://irsa.ipac.caltech.edu/newsletter/2026/IRSA_NL_2026_08.html"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "spherex-dr1",
+      "title": "SPHEREx First-Year Data Release",
+      "date": "2026-11-12",
+      "summary": "First major public SPHEREx data release from IRSA.",
+      "body": "The archive documents the first major release in November 2026. Visit the data record to identify the products and their intended uses.\n\nThe archive’s explanatory materials outline calibration and access options for new users.",
+      "image": "images/spherex in sky.jpg",
+      "location": "Infrared Science Archive",
+      "status": "Released",
+      "organizer": "NASA / IPAC-Caltech",
+      "end": "",
+      "dateDisplay": "November 2026",
+      "schedule": true,
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA · First all-sky infrared map",
+          "url": "https://www.nasa.gov/image-article/first-sky-map-from-nasas-spherex-observatory/"
+        }
+      ]
+    },
+    {
+      "id": "spherex-survey",
+      "title": "SPHEREx ongoing all-sky observations",
+      "date": "2026-12-01",
+      "summary": "Follow mission progress and look for updates in the public data archive.",
+      "body": "SPHEREx revisits the sky during its primary mission to build up coverage and sensitivity. New observations can be accessed as they are released.\n\nThis is an editorial calendar entry about the ongoing survey, not an announced December data-release appointment.",
+      "image": "images/spherex mission(1).jpeg",
+      "location": "Online · IRSA",
+      "status": "Mission watch · no confirmed event date",
+      "organizer": "NASA / SPHEREx",
+      "end": "",
+      "dateDisplay": "December 2026",
+      "schedule": true,
+      "sources": [
+        {
+          "label": "NASA Science · SPHEREx mission",
+          "url": "https://science.nasa.gov/mission/spherex/"
+        },
+        {
+          "label": "NASA/IPAC Infrared Science Archive",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    },
+    {
+      "id": "moon-party-at-safari-park",
+      "title": "Moon party at safari park",
+      "date": "2024-03-27",
+      "summary": "A sample Moon-observing event retained from the original calendar.",
+      "body": "Use the Moon as an introduction to observing with binoculars or telescopes. Different phases reveal different shadows along the terminator, making crater and mountain shapes easier to spot.\n\nThis listing came from the site template. It is an example and is not a confirmed public event.",
+      "image": "images/event5-copyright-890x664.jpg",
+      "location": "Safari park · example location",
+      "status": "Archived example · not bookable",
+      "organizer": "",
+      "end": "2029-04-08",
+      "dateDisplay": "Mar 27, 2024 – Apr 8, 2029 (template listing)",
+      "schedule": false,
+      "sources": []
+    },
+    {
+      "id": "night-at-the-museum",
+      "title": "A night at the Museum",
+      "date": "2024-12-18",
+      "summary": "A gallery event example about exploring astronomy in a museum.",
+      "body": "This entry was preserved from the gallery as a template example, not as an official event announcement. Check the project calendar for current, published listings.",
+      "image": "images/event5-copyright-890x664.jpg",
+      "location": "",
+      "status": "Archived example",
+      "organizer": "",
+      "end": "",
+      "dateDisplay": "",
+      "schedule": false,
+      "sources": []
+    },
+    {
+      "id": "solar-eclipse-broadcast",
+      "title": "Solar eclipse broadcast",
+      "date": "2024-12-26",
+      "summary": "A gallery event example about following eclipse coverage.",
+      "body": "This entry was preserved from the gallery as a template example, not as an official event announcement. Check the project calendar for current, published listings.",
+      "image": "images/event5-copyright-890x664.jpg",
+      "location": "",
+      "status": "Archived example",
+      "organizer": "",
+      "end": "",
+      "dateDisplay": "",
+      "schedule": false,
+      "sources": []
+    },
+    {
+      "id": "polar-lights-study-trip",
+      "title": "Polar lights study trip",
+      "date": "2024-12-21",
+      "summary": "A gallery event example about exploring auroras.",
+      "body": "This entry was preserved from the gallery as a template example, not as an official event announcement. Check the project calendar for current, published listings.",
+      "image": "images/event5-copyright-890x664.jpg",
+      "location": "",
+      "status": "Archived example",
+      "organizer": "",
+      "end": "",
+      "dateDisplay": "",
+      "schedule": false,
+      "sources": []
+    },
+    {
+      "id": "launching-of-the-project-nightlock",
+      "title": "Launching of the Project Nightlock",
+      "date": "2026-11-15",
+      "summary": "Launch of Project NightLock at SLIIT Malabe, Colombo.",
+      "body": "Join us at SLIIT Malabe, Colombo, for the launch of Project NightLock.",
+      "image": "images/spherex launch(2).jpeg",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "dateDisplay": "",
+      "location": "SLIIT Malabe, Colombo",
+      "status": "Project launch",
+      "organizer": "Project NightLock",
+      "end": "",
+      "eventTime": "15:30–16:30",
+      "publishAt": "",
+      "announce": false,
+      "schedule": false,
+      "calendar": true,
+      "sources": []
+    },
+    {
+      "id": "spherex-reprocessing",
+      "title": "Improved SPHEREx Science Data",
+      "date": "2026-11-12",
+      "dateDisplay": "November 2026",
+      "summary": "Follow processing improvements in the SPHEREx public archive.",
+      "body": "Check the IRSA product notes to distinguish new observations from reprocessed data. Updates to calibration and processing can improve the reliability of published measurements. This entry does not announce a separate confirmed release date.",
+      "image": "images/img 01 of spherex.png",
+      "location": "Infrared Science Archive",
+      "organizer": "NASA / IPAC-Caltech",
+      "status": "Mission watch",
+      "schedule": true,
+      "sources": [
+        {
+          "label": "SPHEREx Archive at IRSA",
+          "url": "https://irsa.ipac.caltech.edu/spherex-archive-documentation/"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "abhishek-parindya",
+      "title": "Abhishek Parindya",
+      "role": "Cybersecurity undergraduate",
+      "image": "images/abhishek image.jpg",
+      "linkedin": "https://www.linkedin.com/in/abhishek-parindya-326512411/",
+      "profileLink": "",
+      "featured": true,
+      "summary": "I combine cybersecurity knowledge, creative media and web development to build secure, useful and visually engaging digital experiences.",
+      "body": "I am a cybersecurity undergraduate at NSBM Green University. My studies cover network security, ethical hacking, risk assessment, access control, vulnerability assessment and incident response. These subjects help me understand how digital systems are built, where weaknesses can appear, and how careful design and review can reduce risk.\n\nAlongside my studies, I create promotional content, photographs and videos for university activities. This creative work gives me another way to contribute to a team: listening to what an event needs, shaping a clear visual message, and helping people connect with the information being shared.\n\nMy projects bring together technical learning and practical communication. Red Pulse is a responsive online news platform built with HTML, CSS and JavaScript; Zey-AI is an assistant prototype focused on accessible interaction and productivity; and Citadel explores secure development principles and structured architecture. Each project gives me an opportunity to think about usability as well as implementation.\n\nI enjoy combining security, web development and media rather than treating them as separate interests. I aim to keep learning, document my work clearly, and approach technology responsibly, with attention to the people who will use the systems and content I help create.",
+      "institutes": [
+        {
+          "title": "Victoria University",
+          "image": "images/institution-vu.webp"
+        },
+        {
+          "title": "NSBM Green University",
+          "image": "images/institution-nsbm.webp"
+        },
+        {
+          "title": "ESOFT Metro Campus",
+          "image": "images/institution-esoft.webp"
+        }
+      ],
+      "links": [],
+      "sections": [
+        {
+          "title": "Selected projects",
+          "body": "Red Pulse · Responsive online news platform built with HTML, CSS and JavaScript.\n\nZey-AI · AI assistant prototype focused on accessible user interaction and productivity.\n\nCitadel · Technology project exploring secure development principles and structured architecture."
+        },
+        {
+          "title": "Education",
+          "body": "2026–present · Major in Cyber Security, NSBM Green University / Victoria University affiliated degree.\n\n2024–2025 · Information Technology Diploma Level, ESOFT Metro Campus.\n\n2023 · G.C.E. Ordinary Level, Ecole International School, Kandy.\n\n2017 · G.C.E. Scholarship Examination, Gamini Dissanayake College, Hasalaka."
+        },
+        {
+          "title": "Skills and languages",
+          "body": "Core skills · Project management, teamwork, time management, leadership, communication, critical thinking and digital marketing.\n\nTools · Java, Python, JavaScript, HTML5, CSS3, SQL, Git, GitHub, VS Code, Microsoft Office, Wireshark, VirtualBox, Linux and Azure SQL.\n\nLanguages · English and Sinhala (fluent), Tamil (basic)."
+        },
+        {
+          "title": "Work process",
+          "body": "Discover goals, risks and success criteria. Plan the scope and tools. Design clear, secure solutions. Build, test and refine. Deliver, document and improve from feedback."
+        },
+        {
+          "title": "Leadership and club activities",
+          "body": "NSBM NFORCE Club (2026–present) · Content creator, photographer and videographer.\n\nNSBM Speakers Club (2025) · Member participating in public-speaking sessions, workshops and competitions."
+        },
+        {
+          "title": "Workshops and achievements",
+          "body": "HackOps Cybersecurity Workshop and Cybersecurity Awareness Workshop (NSBM, 2025). AI Puppet Master Workshop and participation certificate (ESOFT, 2024).\n\nSpeech Olympics semi-finalist (2025). Inter-School Basketball Championship second place (2023). Inter-School Chess Tournament second place (2017). Certificate files are not yet published."
+        },
+        {
+          "title": "My approach to security",
+          "body": "“Security is strongest when thoughtful design and responsible technology work together.”\n\n“Good security is not only about stopping threats. It is also about creating systems people can trust.”"
+        }
+      ]
+    },
+    {
+      "id": "haroon",
+      "title": "Haroon Marikkar",
+      "role": "Cybersecurity undergraduate",
+      "image": "images/Haroon.jpeg",
+      "linkedin": "",
+      "profileLink": "",
+      "featured": true,
+      "summary": "Cybersecurity undergraduate studying how digital systems, networks, and information can be protected through careful technical practice.",
+      "body": "Haroon Marikkar is a cybersecurity undergraduate. The field focuses on understanding the ways computers, networks, and digital services can be exposed to risk, then applying sound practices to help protect their confidentiality, integrity, and availability.\n\nCybersecurity study spans several connected areas, including network security, secure system configuration, identity and access management, vulnerability assessment, and incident response. These topics require both technical analysis and attention to how people use technology. A strong security approach considers not only whether a system works, but also how it can be operated, monitored, and maintained responsibly.\n\nAs he continues his undergraduate studies, these foundations provide a path toward practical learning in defensive security, risk awareness, and secure development. Connecting theory with careful testing, documentation, and responsible decision-making is central to building dependable security practice.",
+      "institutes": [],
+      "sections": [],
+      "links": []
+    },
+    {
+      "id": "dilmani",
+      "title": "Amasha Dilmani De silva",
+      "role": "Software engineering undergraduate",
+      "image": "images/dilmani.jpg",
+      "linkedin": "",
+      "profileLink": "",
+      "featured": true,
+      "summary": "Software engineering undergraduate learning how to design, build, test, and maintain dependable software.",
+      "body": "Amasha Dilmani De silva is a software engineering undergraduate. Software engineering combines programming with a structured process for understanding needs, designing a solution, building it, testing its behavior, and improving it over time.\n\nA software project involves more than writing code. Requirements need to be clear, interfaces need to be understandable, and components need to work together reliably. Testing and review help reveal defects before release, while documentation and version control make it easier for people to collaborate and maintain a project. Security, accessibility, and performance are also important considerations throughout development.\n\nHer academic field brings together analytical thinking and practical problem-solving. As she progresses through her studies, these foundations can support work across web applications, mobile software, data-driven tools, and other systems. Translating a problem into clear requirements and then into maintainable code is a core part of building software that people can understand and rely on.",
+      "institutes": [],
+      "sections": [],
+      "links": []
+    },
+    {
+      "id": "muneer",
+      "title": "Fuward Muneer",
+      "role": "Robotics and automation undergraduate",
+      "image": "images/Muneer.jpeg",
+      "linkedin": "",
+      "profileLink": "",
+      "featured": true,
+      "summary": "Robotics and automation undergraduate studying how software, sensors, and machines work together to perform useful tasks.",
+      "body": "Fuward Muneer is a robotics and automation undergraduate. The discipline brings together mechanical systems, electronics, control, and software to create machines that can sense their surroundings and carry out defined tasks.\n\nRobotics work often involves understanding how sensors collect information, how controllers interpret it, and how motors or other actuators respond. Automation applies related ideas to make processes more consistent and repeatable. Reliable systems depend on careful integration: components must communicate correctly, software must handle expected conditions, and safety needs to be considered when equipment interacts with people or its environment.\n\nHis studies connect programming and engineering concepts with practical problem-solving. They provide a foundation for exploring areas such as embedded systems, control logic, robotic platforms, and automated processes. The work is iterative: define a task, test how the components behave together, evaluate the results, and refine the system.",
+      "institutes": [],
+      "sections": [],
+      "links": []
+    },
+    {
+      "id": "tina-jones",
+      "title": "Christina Koch",
+      "role": "NASA Astronaut & Engineer",
+      "image": "images/Christina Koch.jpeg",
+      "kind": "astronaut",
+      "summary": "NASA astronaut and electrical engineer whose 328-day International Space Station mission included six spacewalks.",
+      "body": "Christina Koch is a NASA astronaut and electrical engineer. She lived and worked aboard the International Space Station during Expeditions 59, 60, and 61, completing a 328-day spaceflight that set the record for the longest single spaceflight by a woman at the time. Her mission placed her in a spacecraft that also serves as a research laboratory, where crew members balance science activities with the daily work of keeping the station operating.\n\nAn electrical-engineering background is a useful lens for the technical environment of human spaceflight. The station depends on interconnected systems, experiment equipment, and carefully documented procedures. Astronauts coordinate with specialists on Earth, monitor equipment, and report observations so that research and operations can be carried out safely and consistently.\n\nKoch also participated in six spacewalks. Work outside the station calls for extensive preparation, precise procedures, suit and tool checks, and continuous coordination with crewmates and mission control. Spacewalks support station maintenance and upgrades, and demonstrate how much planning is required for people to work beyond the spacecraft.\n\nHer profile brings together several parts of an astronaut's role: engineering knowledge, long-duration crew operations, research support, and extravehicular work. The 328-day mission and six spacewalks are notable milestones, while the broader achievement is the sustained teamwork required to live and work productively in orbit.",
+      "featured": true,
+      "institutes": [],
+      "links": [],
+      "sections": []
+    },
+    {
+      "id": "natalie-coleman",
+      "title": "Victor Glover",
+      "role": "NASA Astronaut & Pilot",
+      "image": "images/Victor Glover.jpeg",
+      "kind": "astronaut",
+      "summary": "NASA astronaut and U.S. Navy aviator who piloted SpaceX Crew-1 and served on the International Space Station during Expeditions 64 and 65.",
+      "body": "Victor Glover is a NASA astronaut and U.S. Navy aviator. He piloted the SpaceX Crew-1 mission to the International Space Station and served as a crew member during Expeditions 64 and 65. His flight experience connects directly with the operational side of human spaceflight, where crew members must understand their vehicle, follow coordinated procedures, and make careful decisions as a team.\n\nThe pilot role on a crewed spacecraft involves working closely with the commander and other crew members throughout launch, the journey to orbit, and arrival at the station. Mission activities rely on rehearsed checklists, clear communication, and close coordination with flight controllers on Earth. These practices help keep complex operations manageable and support a safe transition into life aboard the station.\n\nDuring an ISS expedition, astronauts also contribute to research and station operations. A typical day can involve preparing experiments, maintaining equipment, reviewing procedures, and sharing observations with the teams responsible for each activity. The station's international environment makes cooperation and consistent communication especially important.\n\nGlover's profile spans military aviation, spacecraft piloting, and long-duration orbital work. His Crew-1 flight and Expeditions 64 and 65 illustrate how astronaut missions combine vehicle operations with the routine scientific and maintenance work that enables a crew to live and work in space.",
+      "featured": true,
+      "institutes": [],
+      "links": [],
+      "sections": []
+    },
+    {
+      "id": "richard-gilmore",
+      "title": "Reid Wiseman",
+      "role": "NASA Astronaut & Test Pilot",
+      "image": "images/ Reid Wiseman.jpeg",
+      "kind": "astronaut",
+      "summary": "NASA astronaut, engineer, and former U.S. Navy test pilot who commanded the International Space Station's Expedition 41 in 2014.",
+      "body": "Reid Wiseman is a NASA astronaut, engineer, and former U.S. Navy test pilot. In 2014, he served as commander of the International Space Station's Expedition 41. His engineering and flight-test background is closely connected to the careful preparation, systems awareness, and disciplined teamwork required in human spaceflight.\n\nAn ISS commander helps coordinate the crew's daily work while maintaining communication with mission control and the international partners responsible for the station. That work includes supporting research schedules, overseeing routine operations, and helping the crew respond methodically when plans or equipment need attention. Command is a team responsibility: each crew member contributes expertise, and decisions depend on clear information and coordination.\n\nThe station is both a home and a working laboratory. Crew members conduct experiments, care for research hardware, maintain station systems, and share results with scientists on Earth. Expedition life therefore combines technical tasks with a consistent routine designed to support safety, health, and productive research over an extended stay.\n\nWiseman's Expedition 41 command experience highlights the leadership dimension of astronaut work. His profile also reflects the path from engineering and test piloting to operating and leading a crew in orbit, where preparation and communication are essential to every part of the mission.",
+      "featured": true,
+      "institutes": [],
+      "links": [],
+      "sections": []
+    },
+    {
+      "id": "nicole-carter",
+      "title": "Jeremy Hansen",
+      "role": "CSA Astronaut & Fighter Pilot",
+      "image": "images/Jeremy Hansen.jpeg",
+      "kind": "astronaut",
+      "summary": "Canadian Space Agency astronaut and former Royal Canadian Air Force fighter pilot, selected as a Canadian astronaut in 2009.",
+      "body": "Jeremy Hansen is a Canadian Space Agency astronaut and former Royal Canadian Air Force fighter pilot. Selected as a Canadian astronaut in 2009, he has contributed to spaceflight training and mission operations. His aviation background is relevant to the precision, situational awareness, and calm communication that are practiced throughout astronaut training.\n\nPreparing for a space mission involves learning spacecraft systems, rehearsing procedures, and working with international crews and ground teams. Training covers normal operations as well as how to respond to unexpected situations. Astronauts must be able to follow detailed checklists while also communicating clearly and adapting when circumstances require a different plan.\n\nSpace missions are collaborative by design. The crew, mission control teams, engineers, and scientists each contribute to planning and execution. Canadian astronauts work within that international environment while representing Canada's role in human spaceflight and supporting the shared work of exploration and research.\n\nHansen's profile reflects the connection between military aviation and astronaut operations, as well as the long preparation that precedes a mission. His contribution to training and operations is part of a broader effort to develop capable crews and ensure that complex missions are carried out with care.",
+      "featured": true,
+      "institutes": [],
+      "links": [],
+      "sections": []
+    },
+    {
+      "id": "christina-newman",
+      "title": "Jessica Watkins",
+      "role": "NASA Astronaut & Geologist",
+      "image": "images/Jessica Watkins.jpg",
+      "kind": "astronaut",
+      "summary": "American geologist and NASA astronaut who spent approximately 170 days conducting research and supporting operations aboard the International Space Station during Expedition 67.",
+      "body": "Jessica Watkins is an American geologist and NASA astronaut. During Expedition 67, she spent approximately 170 days conducting research and supporting operations aboard the International Space Station. She was among the first Black women to complete a long-duration mission on the station, an important milestone in the continuing expansion of representation in human spaceflight.\n\nThe ISS is a laboratory in orbit, and research there depends on careful preparation and consistent procedures. Astronauts help set up experiments, monitor equipment, record observations, and coordinate with investigators on Earth. The work ranges across scientific disciplines, while daily station duties ensure that the crew and research facilities can continue operating.\n\nWatkins' background in geology offers a perspective shaped by the study of Earth's materials and processes. In space, scientific work also benefits from observation, precise documentation, and the ability to compare evidence gathered in different environments. Her expedition brought together that scientific mindset with the practical responsibilities shared by every station crew member.\n\nHer experience illustrates how long-duration missions combine research, routine operations, and international teamwork. The station's science program relies on astronauts to support experiments while living and working in a demanding environment, and Watkins' Expedition 67 service contributed to that ongoing effort.",
+      "featured": true,
+      "institutes": [],
+      "links": [],
+      "sections": []
+    },
+    {
+      "id": "michael-lewis",
+      "title": "Sunita Williams",
+      "role": "NASA Astronaut & Spacewalker",
+      "image": "images/Sunita Williams.jpeg",
+      "kind": "astronaut",
+      "summary": "NASA astronaut and former U.S. Navy officer whose three spaceflights include more than 600 days in space and nine spacewalks.",
+      "body": "Sunita Williams is an American astronaut and former U.S. Navy officer. Across three spaceflights, she spent more than 600 days in space and completed nine spacewalks. Her work aboard the International Space Station included contributing to research and station maintenance, activities that support both the station's scientific purpose and its continued operation.\n\nLong-duration missions require astronauts to maintain a demanding routine in a confined, weightless environment. Crew members take part in experiments, care for research equipment, monitor station systems, and coordinate their work with specialists on Earth. Consistency and communication matter because each activity is part of a much larger program involving teams across multiple organizations.\n\nSpacewalks add another layer of preparation and teamwork. Before going outside, astronauts and ground teams plan tasks in detail, check equipment, and rehearse procedures. During the walk, the crew communicates continuously and works through each step methodically. Williams' nine spacewalks represent extensive experience with this demanding part of station work.\n\nHer career brings together naval service, repeated spaceflight, scientific support, and hands-on station operations. The range of experience across her three missions reflects the collaborative effort behind continuous human presence in orbit, from research and daily station work to complex tasks outside the spacecraft.",
+      "featured": true,
+      "institutes": [],
+      "links": [],
+      "sections": []
+    },
+    {
+      "id": "sophie-adenot",
+      "title": "Sophie Adenot",
+      "role": "ESA Astronaut & Aerospace Engineer",
+      "image": "images/Sophie Adenot.jpeg",
+      "kind": "astronaut",
+      "summary": "French aerospace engineer, former helicopter pilot, and European Space Agency astronaut selected in 2022.",
+      "body": "Sophie Adenot is a French astronaut and aerospace engineer selected by the European Space Agency in 2022. Before becoming an astronaut, she served as a helicopter pilot in the French Air and Space Force. Her combination of engineering and aviation experience is relevant to the systems-focused and highly collaborative nature of human spaceflight.\n\nAstronaut preparation includes learning spacecraft systems, practicing procedures, and training to work effectively with crew members and specialists from different countries. A mission requires attention to technical detail as well as the ability to communicate, make decisions, and follow coordinated plans in a demanding environment. These skills are built through repeated training and teamwork.\n\nThe International Space Station provides a setting for scientific research and station operations. Crew members help prepare experiments, care for equipment, and maintain the systems that support life and work in orbit. Adenot's training prepares her to contribute to this shared work, which depends on cooperation between astronauts, engineers, researchers, and mission teams on the ground.\n\nHer profile represents France's contribution to the European astronaut corps and to international exploration. It also shows how experience in engineering and flight can provide a foundation for the varied responsibilities of an astronaut, from technical operations to supporting research in space.",
+      "featured": true,
+      "institutes": [],
+      "links": [],
+      "sections": []
+    },
+    {
+      "id": "anil-menon",
+      "title": "Anil Menon",
+      "role": "NASA Astronaut & Physician",
+      "image": "images/ Anil Menon.jpg",
+      "kind": "astronaut",
+      "summary": "Physician, engineer, and NASA astronaut whose emergency-medicine and flight-surgeon experience informs his work in human spaceflight.",
+      "body": "Anil Menon is a physician, engineer, and NASA astronaut with a background in emergency and aerospace medicine. Before joining NASA's astronaut corps, he served as a flight surgeon supporting crew health and spaceflight operations. That work sits at the intersection of medicine and mission readiness, helping teams consider how to support people in an environment far removed from routine care on Earth.\n\nHuman spaceflight places specific demands on the body and on the systems used to monitor and support a crew. Medical planning considers prevention, health monitoring, access to equipment, and how a crew can respond to illness or injury while in orbit. Flight surgeons work with astronauts and mission teams to prepare for those needs and to make informed decisions throughout a mission.\n\nMenon's medical and engineering experience contributes to research on astronaut health and the challenges of long-duration spaceflight. The field draws on many disciplines, since understanding how people adapt to space requires both observation and reliable technical systems. Research findings can inform how future crews prepare for missions and how their health is supported while away from Earth.\n\nHis profile emphasizes the human-health dimension of exploration. Astronauts rely on spacecraft, procedures, and ground support, but they also need medical planning that accounts for the realities of living and working in space. Menon's experience across medicine, engineering, and flight operations brings those concerns together.",
+      "featured": true,
+      "institutes": [],
+      "links": [],
+      "sections": []
+    }
+  ],
+  "services": [
+    {
+      "id": "watching-the-famous-comet-passing-earth",
+      "title": "Watching the famous comet passing Earth",
+      "summary": "Comets brighten when sunlight warms their ice. Use an ephemeris to see when one is above your horizon, and compare the predicted brightness with your viewing conditions.",
+      "body": "Choose a dark site and allow your eyes to adjust. If a comet is faint, binoculars and a chart are often more helpful than a high-magnification telescope.",
+      "image": "images/post7-copyright-840x473.jpg",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "all-time-favorite-spots-to-watch-the-stars",
+      "title": "All-time favorite spots to watch the stars",
+      "summary": "Good stargazing locations combine dark skies, clear horizons, safe access and low local glare.",
+      "body": "Check access rules, cloud forecasts and Moon phase before travelling. A site with a low horizon in the right direction can be more useful than a darker site surrounded by hills or trees.",
+      "image": "images/post8-copyright-840x473.jpg",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "favorite-news-podcasts-in-2023",
+      "title": "Favorite news podcasts in 2023",
+      "summary": "Audio coverage can make it easier to follow astronomy findings and hear from the people behind them.",
+      "body": "Look for episodes that link to the original paper, mission update or interview. Check the recording date if the episode discusses a scheduled launch or a preliminary result.",
+      "image": "",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "what-we-like-about-astronomic-science",
+      "title": "What we like about astronomic science",
+      "summary": "Astronomy uses careful observation to ask what stars, galaxies and planets are made of and how they change.",
+      "body": "An observation log is a simple way to practice the same habits. Record what you saw, what instrument you used and anything that could affect the result, then compare it with a later observation.",
+      "image": "",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "quote-post",
+      "title": "Quote post",
+      "summary": "Every useful observation starts with a question you can test or a detail you can record.",
+      "body": "Try sketching the Moon at the same time over several nights. Look for the moving boundary between light and dark, and compare how the shadows change as the Moon’s phase changes.",
+      "image": "",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "how-to-keep-track-of-the-space-objects",
+      "title": "How to keep track of the space objects?",
+      "summary": "Sky charts and observing guides help identify bright planets, constellations and other objects that move against the stars.",
+      "body": "Look up an object by name and set the chart’s date and location correctly. For fast-moving satellites, use a current prediction since the exact pass time and direction depend on both the orbit and your viewing location.",
+      "image": "",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "this-weeks-moonless-sky-discoveries",
+      "title": "This week’s Moonless sky discoveries",
+      "summary": "When the Moon is below the horizon, faint galaxies, nebulae and clusters are easier to see.",
+      "body": "Check local moonrise and moonset as well as the lunar phase. Make a short target list and start with the brightest object so you have time to recognise nearby stars before looking for fainter targets.",
+      "image": "images/post12-copyright-840x473.jpg",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "how-to-choose-your-first-big-telescope",
+      "title": "How to choose your first big telescope?",
+      "summary": "Choose a telescope that fits what you want to observe and is practical to set up regularly.",
+      "body": "Aperture determines how much light the instrument collects. A steady mount matters as much as the tube for comfortable viewing. Try equipment at a local astronomy club before buying if you can.",
+      "image": "images/post13-copyright-840x473.jpg",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "a-new-group-of-spider-pulsars-in-omega-centauri",
+      "title": "A new group of spider pulsars in Omega Centauri",
+      "summary": "Spider pulsars are rapidly rotating neutron stars in close binaries whose radiation can erode their companion stars.",
+      "body": "Dense clusters are good places to search for compact binaries. Radio observations can reveal regular pulses and changes in their timing as the pulsar moves around its companion.",
+      "image": "images/post14-copyright-840x473.jpg",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "upgrade-your-telescope-gear-at-our-store",
+      "title": "Upgrade your telescope gear at our store",
+      "summary": "Pick accessories based on an observing problem you actually want to solve.",
+      "body": "A stable mount, a comfortable low-power eyepiece and a simple finder can do more for an observing session than an expensive set of high-power accessories. NightLock does not sell equipment.",
+      "image": "images/post15-copyright-840x473.jpg",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "the-international-space-station-celebrates-25-years",
+      "title": "The International Space station celebrates 25 years",
+      "summary": "The International Space Station is a laboratory built and operated through international cooperation.",
+      "body": "Assembly started in 1998, while continuous crew occupation began in 2000. These are different milestones. From the ground, a station pass can look like a bright, steady moving point shortly after sunset or before sunrise.",
+      "image": "images/post16-copyright-840x473.jpg",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    },
+    {
+      "id": "using-drones-to-watch-the-sky-and-weather-changes",
+      "title": "Using drones to watch the sky and weather changes",
+      "summary": "Aerial images and weather sensors can supplement ground and satellite observations.",
+      "body": "Local measurements can document changes in wind, clouds or surface conditions at finer scales. Published results should state the altitude, instrument and conditions so readers can interpret what was measured.",
+      "image": "images/post17-copyright-840x473.jpg",
+      "video": "",
+      "poster": "",
+      "document": "",
+      "link": "",
+      "button": "Read More"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gallery-1",
+      "title": "Barnard's Star - Detector D1",
+      "image": "sky-explorer-for-abhishek/images/spherex/barnards_star/SPHEREx-D1/frame_000.png",
+      "alt": "SPHEREx infrared frame 000 from detector D1 for Barnard's Star",
+      "description": "Infrared observation from SPHEREx detector array D1."
+    },
+    {
+      "id": "gallery-2",
+      "title": "Barnard's Star - Detector D2",
+      "image": "sky-explorer-for-abhishek/images/spherex/barnards_star/SPHEREx-D2/frame_001.png",
+      "alt": "SPHEREx infrared frame 001 from detector D2 for Barnard's Star",
+      "description": "Infrared observation from SPHEREx detector array D2."
+    },
+    {
+      "id": "gallery-3",
+      "title": "Barnard's Star - Detector D3",
+      "image": "sky-explorer-for-abhishek/images/spherex/barnards_star/SPHEREx-D3/frame_007.png",
+      "alt": "SPHEREx infrared frame 007 from detector D3 for Barnard's Star",
+      "description": "Infrared observation from SPHEREx detector array D3."
+    },
+    {
+      "id": "gallery-4",
+      "title": "Barnard's Star - Detector D4",
+      "image": "sky-explorer-for-abhishek/images/spherex/barnards_star/SPHEREx-D4/frame_000.png",
+      "alt": "SPHEREx infrared frame 000 from detector D4 for Barnard's Star",
+      "description": "Infrared observation from SPHEREx detector array D4."
+    },
+    {
+      "id": "gallery-5",
+      "title": "Barnard's Star - Detector D5",
+      "image": "sky-explorer-for-abhishek/images/spherex/barnards_star/SPHEREx-D5/frame_010.png",
+      "alt": "SPHEREx infrared frame 010 from detector D5 for Barnard's Star",
+      "description": "Infrared observation from SPHEREx detector array D5."
+    },
+    {
+      "id": "gallery-6",
+      "title": "Barnard's Star - Detector D6",
+      "image": "sky-explorer-for-abhishek/images/spherex/barnards_star/SPHEREx-D6/frame_021.png",
+      "alt": "SPHEREx infrared frame 021 from detector D6 for Barnard's Star",
+      "description": "Infrared observation from SPHEREx detector array D6."
+    }
+  ],
+  "reading": [
+    {
+      "id": "mapping-the-entire-sky",
+      "title": "Mapping the Entire Sky",
+      "body": "One of SPHEREx's most important features is its ability to survey the entire sky rather than concentrating on just a small region. This allows scientists to build a broad picture of the universe and investigate objects and structures across enormous distances.\n\nSPHEREx observes the sky in more than 100 infrared spectral bands. A spectral band is a particular range of wavelengths of light. Different wavelengths reveal different information about astronomical objects, such as their temperatures, chemical compositions, and distances.\n\nInfrared light is especially useful because it can reveal information that ordinary visible-light observations may miss. For example, dust surrounding newly forming stars can block visible light, while infrared observations can help scientists study the material within and around these dusty regions.\n\nAs SPHEREx scans the sky repeatedly, it collects measurements that can be combined into detailed maps. These maps help researchers identify galaxies, study the distribution of stars and cosmic dust, and investigate the chemical properties of interstellar clouds. Another major benefit is that SPHEREx can compare millions of objects using a consistent observing method. This is valuable for identifying large-scale patterns that might be difficult to recognise when studying only a small patch of space.\n\nThe resulting dataset supports many different areas of astronomy, from studying the early universe to investigating how galaxies and planetary systems develop. In simple terms, SPHEREx acts like a cosmic surveyor, creating a detailed infrared map that scientists can use to explore the universe on both enormous and relatively small astronomical scales."
+    },
+    {
+      "id": "ingredients-for-life",
+      "title": "Searching for the Ingredients of Life",
+      "body": "Scientists studying the possibility of life beyond Earth need to understand where the basic ingredients of life exist in space and how these ingredients become part of planets. Two important examples are water and organic molecules.\n\nWater is essential for life as we know it, while organic molecules contain carbon and form the basis of many biological substances.\n\nThese materials can exist in interstellar clouds, which are enormous regions of gas and dust where new stars and planetary systems may eventually form. SPHEREx uses infrared spectroscopy to investigate the chemical composition of these regions. Different molecules absorb or interact with particular wavelengths of infrared light, producing characteristic patterns that scientists can analyse. These patterns help researchers identify and estimate the abundance of substances such as water ice and certain carbon-containing molecules.\n\nWater ice is particularly important because it can collect on dust grains inside cold molecular clouds. When stars and planetary systems form from these clouds, some of this material may become incorporated into comets, asteroids, and planets. Studying where water ice exists can therefore help scientists understand how water may be delivered to developing planetary systems.\n\nSPHEREx also surveys many star-forming regions throughout the Milky Way, allowing researchers to compare their chemical compositions and environments. This can reveal how the availability of important molecules changes from one region to another. However, finding water ice or organic molecules does not mean that life exists there. Instead, SPHEREx helps scientists investigate whether the raw materials needed for life are widespread and how they become distributed during the formation of stars and planets."
+    },
+    {
+      "id": "cosmic-origins",
+      "title": "Understanding the Origins of the Universe",
+      "body": "The universe began approximately 13.8 billion years ago in an event known as the Big Bang. Scientists believe that, during its earliest moments, the universe experienced an extremely rapid expansion called cosmic inflation.\n\nThis expansion may have stretched tiny variations in the early universe across enormous distances, eventually helping to create the structures we observe today, including galaxies and clusters of galaxies. SPHEREx helps scientists investigate this history by studying the positions and distribution of millions of galaxies across the sky. Galaxies are not distributed completely randomly. Instead, they form large-scale patterns influenced by gravity and the conditions that existed in the early universe.\n\nBy mapping these patterns in three dimensions, scientists can examine how matter is distributed throughout space and compare their observations with predictions made by different models of cosmic inflation. This can help researchers determine which explanations of the universe's earliest moments are most consistent with the evidence.\n\nSPHEREx uses infrared observations to estimate the distances to galaxies and study their properties. Its wide survey provides a large collection of measurements that scientists can analyse statistically. Importantly, SPHEREx does not directly observe cosmic inflation itself. Instead, it searches for clues preserved in the universe's large-scale structure. These clues help scientists understand how the universe evolved from its earliest conditions into the vast collection of galaxies we see today."
+    }
+  ],
+  "stats": [
+    {
+      "label": "Infrared wavelengths",
+      "value": "102"
+    },
+    {
+      "label": "Detector arrays",
+      "value": "6"
+    },
+    {
+      "label": "Galaxies",
+      "value": "450M+"
+    },
+    {
+      "label": "Milky Way stars",
+      "value": "100M+"
+    }
+  ],
+  "videos": {
+    "index": {
+      "title": "Watch the SPHEREx video",
+      "url": "https://www.youtube.com/embed/mrqXTHiphn0",
+      "poster": ""
+    },
+    "about-spherex": {
+      "title": "Watch the SPHEREx video",
+      "url": "https://www.youtube.com/embed/mrqXTHiphn0",
+      "poster": ""
+    },
+    "observatory": {
+      "title": "Watch the observatory video",
+      "url": "https://www.youtube.com/embed/BFPHN4yOy2Y",
+      "poster": ""
+    },
+    "gallery": {
+      "title": "Watch the SPHEREx video",
+      "url": "https://youtu.be/V-UhPS1Jwl4?si=AsgARDqHf8BWogNZ",
+      "poster": ""
+    },
+    "our-team": {
+      "title": "Watch the SPHEREx video",
+      "url": "https://www.youtube.com/embed/mrqXTHiphn0",
+      "poster": "images/our-team-video-poster.png"
+    },
+    "our-services": {
+      "title": "Night sky video",
+      "url": "https://youtu.be/V-UhPS1Jwl4?si=AsgARDqHf8BWogNZ",
+      "poster": ""
+    }
+  },
+  "blocks": {},
+  "overrides": {},
+  "feedbackDefaults": []
+}

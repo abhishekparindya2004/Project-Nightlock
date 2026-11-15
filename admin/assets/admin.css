@@ -1,0 +1,67 @@
+:root{font:16px/1.5 system-ui,-apple-system,BlinkMacSystemFont,sans-serif;color:#f3f1ff;background:#0b0c11;color-scheme:dark;--edge:#38394a;--muted:#bcbacb;--accent:#5a4fb2}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0}
+a{color:#d5ceff;text-underline-offset:4px}
+button,input,select,textarea{font:inherit}
+button{border:1px solid transparent;border-radius:30px;padding:.62rem 1rem;background:var(--accent);color:white;cursor:pointer;font-weight:650}
+button:disabled{opacity:.6;cursor:not-allowed}
+button.secondary{background:#171822;border-color:var(--edge)}
+button.danger{color:#ffc0c6}
+button:hover:not(:disabled){filter:brightness(1.25)}
+:focus-visible{outline:2px solid #bab0ff;outline-offset:3px}
+.admin-header{display:flex;align-items:center;gap:16px;flex-wrap:wrap;padding:15px max(5vw,calc((100vw - 1220px)/2));border-bottom:1px solid var(--edge)}
+.admin-header .brand{display:inline-flex;align-items:center}
+.admin-header .brand img{width:145px;height:auto}
+.admin-header span{color:var(--muted);flex:1}
+main{width:min(1150px,91%);margin:40px auto 80px}
+.auth-panel,.editor-panel{background:#11121a;border:1px solid var(--edge);padding:clamp(19px,4vw,40px);border-radius:12px}
+.auth-panel{width:min(100%,500px);margin:65px auto}
+h1,h2,h3,p{margin:0 0 .7rem}
+h1{font-size:clamp(30px,5vw,51px);line-height:1.06;letter-spacing:-.038em}
+h2{font-size:clamp(22px,3vw,32px);line-height:1.18;letter-spacing:-.025em}
+h3{font-size:18px}
+.eyebrow{letter-spacing:.15em;font-size:12px;text-transform:uppercase;color:#c4bdfb}
+.muted{color:var(--muted)}
+form,.stack{display:grid;gap:12px}
+label:not(.check){display:grid;gap:5px;margin-bottom:12px}
+label.check{display:flex;align-items:center;gap:9px;margin-bottom:8px}
+label span{font-size:.91rem}
+input:not([type=checkbox]),textarea,select{width:100%;padding:.55rem .65rem;background:#1b1c28;color:#fff;border:1px solid #484958;border-radius:5px}
+input[type=file]{max-width:100%;font-size:.84rem}
+textarea{min-height:84px;resize:vertical}
+form button{justify-self:start}
+.studio-heading,.toolbar,.record-actions{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.studio-heading,.toolbar{justify-content:space-between}
+.toolbar input{flex:1;min-width:160px;max-width:340px}
+#sections{display:flex;flex-wrap:wrap;gap:7px;margin:13px 0 20px}
+#sections button{font-size:.88rem}
+#sections button[aria-pressed=true]{background:#f3efff;color:#13111e}
+#status{min-height:1.5em;color:#d4cfff}
+#status.error,#auth-status{color:#ffb8bf}
+.page-picker{max-width:380px}
+.records{display:grid;gap:7px;margin-top:14px}
+.record,.review-row{border:1px solid var(--edge);background:#161722;border-radius:6px}
+.record summary{cursor:pointer;padding:.72rem .85rem;font-weight:600}
+.record-inner,.review-row{padding:14px}
+.record[open] summary{border-bottom:1px solid var(--edge)}
+.fields-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 18px}
+fieldset{border:1px solid var(--edge);border-radius:5px;margin:0 0 12px;padding:.85rem;min-width:0}
+legend{color:var(--muted);padding:0 .4em}
+.media-field{min-width:0;margin-bottom:12px}
+.media-field .control{margin-bottom:5px}
+.file-label{margin-bottom:2px!important}
+.sublist{padding:12px;border:1px solid var(--edge);border-radius:5px;margin-bottom:12px}
+.subrow{border-top:1px solid var(--edge);padding:12px 0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 13px}
+.subrow .secondary{justify-self:start}
+.review-row{margin-top:13px}
+.review-row p{white-space:pre-wrap;overflow-wrap:anywhere}
+@media(max-width:650px){.fields-grid,.subrow{grid-template-columns:1fr}.admin-header{gap:10px}.admin-header .brand img{width:110px}main{margin-top:22px}}
+
+/* Match the public NightLock navigation, dark background, white labels and violet controls. */
+:root{color:#fff;background:#090909;--edge:#38363e;--muted:#cfccd6;--accent:#4b4295}
+.admin-header{background:#000;color:#fff}
+.admin-header>a:not(.brand){color:#fff;font-weight:650;text-decoration:none}
+.admin-header>a:not(.brand):hover{text-decoration:underline;text-underline-offset:.45rem}
+.auth-panel,.editor-panel{background:#111115}
+.record,.review-row,button.secondary{background:#18171d}
