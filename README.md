@@ -1,4 +1,6 @@
 # Project NightLock
+Explore Our NASA Space Apps Challenge 2026 Project!
+https://chipper-panda-9e3ceb.netlify.app/
 
 **See how the infrared sky changes over time.**
 
